@@ -1,7 +1,7 @@
 ### Hello, Muito Prazer sou o Gilberto! 👋
 My name is Gilberto Heitmann, I'm a data analyst in infrastructure and product owner. Acting in Brazil, Currently, I work as a data analyst at Life Center, where I utilize Power BI to generate reports. 
 - I am from Belo  Horizonte - MG, Brazil.
-- 🌱 Currently, I've been furthering my knowledge in front-end and web development, with plans to study Python programming language in the future. 📈
+- 🌱 Currently, I've been furthering my knowledge in front-end and web development, with plans to study IA programming language. 📈
 - 📫 How to reach me: **gilberto.heitmann@yahoo.com.br**
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoheitman/)
 
